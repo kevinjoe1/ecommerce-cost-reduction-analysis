@@ -15,20 +15,20 @@ and builds a simulation model to estimate how much cost can be saved by optimizi
 
 ## 📊 Key Charts
 
-### Shipping Cost Distribution
-![Shipping Cost Distribution](imgs/dist_orderProfit.png)
-
-### Shipping Cost vs Product Price
-![Price vs Shipping](imgs/prive_vs_shipping.png)
-
-### Delivery Speed Categories
-![Delivery Speed](imgs/delivery_speed.png)
+### Before vs After Optimization
+![Before vs After](data/images/Before_vs_after.png)
 
 ### Average Logistics Cost % by State
-![Logistics Cost by State](imgs/avg_logistic_cost%_by_state.png)
+![Logistics Cost by State](data/images/avg_logistic_cost_by_state.png)
 
-### Before vs After Optimization
-![Before vs After](imgs/Before_vs_after.png)
+### Delivery Speed Categories
+![Delivery Speed](data/images/delivery_speed.png)
+
+### Distribution of Order Profit
+![Order Profit Distribution](data/images/dist_orderProfit.png)
+
+### Price vs Shipping
+![Price vs Shipping](data/images/price_vs_shipping.png)
 
 ---
 
